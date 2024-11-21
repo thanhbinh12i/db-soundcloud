@@ -1,0 +1,323 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "johndoe",
+      "email": "john@example.com",
+      "name": "John Doe",
+      "avatar": "avatar1.jpg",
+      "address": "123 Main St",
+      "password": "hashedpassword123",
+      "isVerify": true,
+      "code": "verification123"
+    },
+    {
+      "id": "2",
+      "username": "janesmith",
+      "email": "jane@example.com",
+      "name": "Jane Smith",
+      "avatar": "avatar2.jpg",
+      "address": "456 Oak St",
+      "password": "hashedpassword456",
+      "isVerify": true,
+      "code": "verification456"
+    }
+  ],
+  "tracks": [
+    {
+      "id": "1",
+      "title": "Thiên Lý Ơi",
+      "description": "",
+      "imgUrl": "https://thantrieu.com/resources/arts/1121430003.webp",
+      "uploader": "1",
+      "trackUrl": "https://thantrieu.com/resources/music/1121430003.mp3",
+      "countLike": 42,
+      "categoryId": "3"
+    },
+    {
+      "id": "2",
+      "title": "Già Cùng Nhau Là Được",
+      "description": "",
+      "imgUrl": "https://thantrieu.com/resources/arts/1078245055.webp",
+      "uploader": "1",
+      "trackUrl": "https://thantrieu.com/resources/music/1078245055.mp3",
+      "countLike": 32,
+      "categoryId": "1"
+    },
+    {
+      "id": "3",
+      "title": "Chắc Anh Đang",
+      "description": "Tiên Tiên ft Trang - Chắc Anh Đang (Single)",
+      "imgUrl": "https://thantrieu.com/resources/arts/1078245041.webp",
+      "uploader": "1",
+      "trackUrl": "https://thantrieu.com/resources/music/1078245041.mp3",
+      "countLike": 53,
+      "categoryId": "1"
+    },
+    {
+      "id": "4",
+      "title": "Yêu Thầm",
+      "description": "Bạch Công Khanh - Khanh's Live Vol 2 (EP)",
+      "imgUrl": "https://thantrieu.com/resources/arts/1078245042.webp",
+      "uploader": "1",
+      "trackUrl": "https://thantrieu.com/resources/music/1078245042.mp3",
+      "countLike": 75,
+      "categoryId": "2"
+    },
+    {
+      "id": "5",
+      "title": "Thật Bất Ngờ",
+      "description": "Trúc Nhân - Making Money",
+      "imgUrl": "https://thantrieu.com/resources/arts/1078245043.webp",
+      "uploader": "1",
+      "trackUrl": "https://thantrieu.com/resources/music/1078245043.mp3",
+      "countLike": 43,
+      "categoryId": "1"
+    },
+    {
+      "id": "6",
+      "title": "Lớn Rồi Còn Khóc Nhè",
+      "description": "Trúc Nhân - Unknown",
+      "imgUrl": "https://thantrieu.com/resources/arts/1078245044.webp",
+      "uploader": "1",
+      "trackUrl": "https://thantrieu.com/resources/music/1078245044.mp3",
+      "countLike": 34,
+      "categoryId": "1"
+    },
+    {
+      "id": "7",
+      "title": "Nhắm Mắt",
+      "description": "Lynk Lee ft Binz - Tát Nước Đầu Đình",
+      "imgUrl": "https://thantrieu.com/resources/arts/1078245045.webp",
+      "uploader": "1",
+      "trackUrl": "https://thantrieu.com/resources/music/1078245045.mp3",
+      "countLike": 23,
+      "categoryId": "2"
+    },
+    {
+      "id": "8",
+      "title": "Con Nợ Mẹ",
+      "description": "Trịnh Đình Quang - Con Nợ Mẹ",
+      "imgUrl": "https://thantrieu.com/resources/arts/1075170082.webp",
+      "uploader": "1",
+      "trackUrl": "https://thantrieu.com/resources/music/1075170084.mp3",
+      "countLike": 45,
+      "categoryId": "2"
+    },
+    {
+      "id": "9",
+      "title": "Lắng Nghe Nước Mắt",
+      "description": "Mr. Siro - Lắng Nghe Nước Mắt (Single)",
+      "imgUrl": "https://thantrieu.com/resources/arts/1074241673.webp",
+      "uploader": "1",
+      "trackUrl": "https://thantrieu.com/resources/music/1074344478.mp3",
+      "countLike": 120,
+      "categoryId": "2"
+    },
+    {
+      "id": "10",
+      "title": "Người Con Gái Anh Không Thể Quên",
+      "description": "Mr. Siro - Lắng Nghe Nước Mắt (Single)",
+      "imgUrl": "https://thantrieu.com/resources/arts/1074241673.webp",
+      "uploader": "1",
+      "trackUrl": "https://thantrieu.com/resources/music/1074412087.mp3",
+      "countLike": 80,
+      "categoryId": "2"
+    },
+    {
+      "id": "11",
+      "title": "Bức Tranh Màu Nước Mắt",
+      "description": "Mr. Siro - Lắng Nghe Nước Mắt (Single)",
+      "imgUrl": "https://thantrieu.com/resources/arts/1074241673.webp",
+      "uploader": "1",
+      "trackUrl": "https://thantrieu.com/resources/music/1074700719.mp3",
+      "countLike": 67,
+      "categoryId": "2"
+    },
+    {
+      "id": "12",
+      "title": "Hoa Nở Không Màu",
+      "description": "Hoài Lâm - Đồng Dao Show",
+      "imgUrl": "https://thantrieu.com/resources/arts/1130295696.webp",
+      "uploader": "1",
+      "trackUrl": "https://thantrieu.com/resources/music/1130295696.mp3",
+      "countLike": 92,
+      "categoryId": "1"
+    },
+    {
+      "id": "13",
+      "title": "Đế Vương",
+      "description": "Đình Dũng - Ciray Remix-Cover",
+      "imgUrl": "https://thantrieu.com/resources/arts/1130295697.webp",
+      "uploader": "1",
+      "trackUrl": "https://thantrieu.com/resources/music/1130295697.mp3",
+      "countLike": 150,
+      "categoryId": "3"
+    },
+    {
+      "id": "14",
+      "title": "Thì Thôi",
+      "description": "Nal ft TVk ft 93NEW-G - Remix-Đại Mèo",
+      "imgUrl": "https://thantrieu.com/resources/arts/1130295698.webp",
+      "uploader": "1",
+      "trackUrl": "https://thantrieu.com/resources/music/1130295698.mp3",
+      "countLike": 210,
+      "categoryId": "3"
+    },
+    {
+      "id": "15",
+      "title": "Trách Duyên Trách Phận",
+      "description": "Đỗ Thành Duy - Unknown",
+      "imgUrl": "https://thantrieu.com/resources/arts/1130295699.webp",
+      "uploader": "1",
+      "trackUrl": "https://thantrieu.com/resources/music/1130295699.mp3",
+      "countLike": 175,
+      "categoryId": "2"
+    },
+    {
+      "id": "16",
+      "title": "Cưới Hông Chốt Nha",
+      "description": "Út Nhị Mino - NH4T",
+      "imgUrl": "https://thantrieu.com/resources/arts/1130295700.webp",
+      "uploader": "1",
+      "trackUrl": "https://thantrieu.com/resources/music/1130295700.mp3",
+      "countLike": 125,
+      "categoryId": "1"
+    },
+    {
+      "id": "17",
+      "title": "Em Nên Dừng Lại",
+      "description": "Khang Việt - Em Nên Dừng Lại (Single)",
+      "imgUrl": "https://thantrieu.com/resources/arts/1130295701.webp",
+      "uploader": "1",
+      "trackUrl": "https://thantrieu.com/resources/music/1130295701.mp3",
+      "countLike": 63,
+      "categoryId": "2"
+    },
+    {
+      "id": "18",
+      "title": "Người Lạ Thoáng Qua",
+      "description": "Đinh Tùng Huy - Người Lạ Thoáng Qua (Single)",
+      "imgUrl": "https://thantrieu.com/resources/arts/1130295702.webp",
+      "uploader": "1",
+      "trackUrl": "https://thantrieu.com/resources/music/1130295702.mp3",
+      "countLike": 96,
+      "categoryId": "2"
+    },
+    {
+      "id": "19",
+      "title": "Bigcityboi",
+      "description": "Hit đình đám của Binz và Touliver.",
+      "imgUrl": "https://thantrieu.com/resources/arts/1078245038.webp",
+      "uploader": "1",
+      "trackUrl": "https://thantrieu.com/resources/music/1078245038.mp3",
+      "countLike": 120,
+      "categoryId": "3"
+    },
+    {
+      "id": "20",
+      "title": "Nàng Thơ",
+      "description": "Bản tình ca nhẹ nhàng của Hoàng Dũng.",
+      "imgUrl": "https://thantrieu.com/resources/arts/1078245047.webp",
+      "uploader": "1",
+      "trackUrl": "https://thantrieu.com/resources/music/1078245047.mp3",
+      "countLike": 95,
+      "categoryId": "1"
+    },
+    {
+      "id": "21",
+      "title": "Hết Thương Cạn Nhớ",
+      "description": "Ca khúc cảm động của Đức Phúc.",
+      "imgUrl": "https://thantrieu.com/resources/arts/1078245049.webp",
+      "uploader": "1",
+      "trackUrl": "https://thantrieu.com/resources/music/1078245049.mp3",
+      "countLike": 150,
+      "categoryId": "2"
+    },
+    {
+      "id": "22",
+      "title": "Chạy Ngay Đi",
+      "description": "Bản hit đình đám của Sơn Tùng M-TP.",
+      "imgUrl": "https://thantrieu.com/resources/arts/1078245051.webp",
+      "uploader": "1",
+      "trackUrl": "https://thantrieu.com/resources/music/1078245051.mp3",
+      "countLike": 230,
+      "categoryId": "3"
+    },
+    {
+      "id": "23",
+      "title": "Anh Không Đòi Quà",
+      "description": "Bài hát sôi động của Only C và Karik.",
+      "imgUrl": "https://thantrieu.com/resources/arts/1078245052.webp",
+      "uploader": "1",
+      "trackUrl": "https://thantrieu.com/resources/music/1078245052.mp3",
+      "countLike": 180,
+      "categoryId": "3"
+    },
+    {
+      "id": "24",
+      "title": "Thu Cuối",
+      "description": "Ca khúc sâu lắng của Yanbi, Hằng BingBoong và Mr.T.",
+      "imgUrl": "https://thantrieu.com/resources/arts/1078245056.webp",
+      "uploader": "1",
+      "trackUrl": "https://thantrieu.com/resources/music/1078245056.mp3",
+      "countLike": 200,
+      "categoryId": "1"
+    },
+    {
+      "id": "25",
+      "title": "Hoa Hải Đường",
+      "description": "Siêu phẩm nổi bật của Jack-J97.",
+      "imgUrl": "https://thantrieu.com/resources/arts/1121430004.webp",
+      "uploader": "1",
+      "trackUrl": "https://thantrieu.com/resources/music/1121430004.mp3",
+      "countLike": 350,
+      "categoryId": "3"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Chill",
+      "description": "Những bài hát mang giai điệu nhẹ nhàng, thư giãn."
+    },
+    {
+      "id": "2",
+      "name": "Buồn",
+      "description": "Những bài hát phù hợp với tâm trạng buồn, sâu lắng."
+    },
+    {
+      "id": "3",
+      "name": "GenZ",
+      "description": "Những bài hát với phong cách hiện đại, bắt trend của giới trẻ."
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "content": "Great track!",
+      "moment": "2024-01-01T10:00:00Z",
+      "user": "1",
+      "track": "1"
+    },
+    {
+      "id": "2",
+      "content": "Love this song!",
+      "moment": "2024-01-01T11:00:00Z",
+      "user": "2",
+      "track": "1"
+    }
+  ],
+  "likes": [
+    {
+      "id": "1",
+      "user": "1",
+      "track": "1"
+    },
+    {
+      "id": "2",
+      "user": "2",
+      "track": "2"
+    }
+  ]
+}
