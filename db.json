@@ -2,25 +2,14 @@
   "users": [
     {
       "id": "1",
-      "username": "johndoe",
-      "email": "john@example.com",
-      "name": "John Doe",
-      "avatar": "avatar1.jpg",
-      "address": "123 Main St",
+      "username": "binhdaynee",
+      "email": "nptbinh17092004@gmail.com",
+      "name": "Thanh Bình",
+      "avatar": "avatar.jpg",
+      "address": "186c Hoàng Hữu Nam, P. Long Thạnh Mỹ, TP. Thủ Đức, TPHCM",
       "password": "hashedpassword123",
       "isVerify": true,
       "code": "verification123"
-    },
-    {
-      "id": "2",
-      "username": "janesmith",
-      "email": "jane@example.com",
-      "name": "Jane Smith",
-      "avatar": "avatar2.jpg",
-      "address": "456 Oak St",
-      "password": "hashedpassword456",
-      "isVerify": true,
-      "code": "verification456"
     }
   ],
   "tracks": [
